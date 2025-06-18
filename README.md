@@ -1,5 +1,5 @@
 # 📊 Layoffs Data Cleaning and Analysis
-
+SQL-based project focused on cleaning and analyzing real-world layoffs data.
 This project focuses primarily on **data cleaning** using SQL, with some light exploratory data analysis (EDA) to extract basic insights.
 
 ## 📁 Dataset Source

@@ -9,6 +9,7 @@ This project focuses primarily on **data cleaning** using SQL, with some light e
 
 ## 📂 Files
 - `layoffs.csv`: Raw dataset file
+- `cleaned_layoffs_data.csv`: Final cleaned dataset
 - `layoffs_data_cleaning.sql`: SQL script for cleaning the data
 - `layoffs_eda.sql`: SQL script for basic exploratory data analysis
 

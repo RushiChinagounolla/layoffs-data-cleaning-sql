@@ -22,4 +22,4 @@ This project focuses primarily on **data cleaning** using SQL, with some light e
 - 🧪 Light EDA was performed to explore patterns in layoffs by date, company, and industry
 
 ## 🛠️ Tool Used
-- SQL
+- MySQL
